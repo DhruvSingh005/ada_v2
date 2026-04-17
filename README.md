@@ -432,6 +432,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <strong>Built with 🤖 by Nazir Louis</strong><br>
+  <strong>Built with 🤖 by Dhruv SSingh</strong><br>
   <em>Bridging AI, CAD, and Vision in a Single Interface</em>
 </p>
